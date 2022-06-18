@@ -1,6 +1,9 @@
 # phone-store
 A phone store, fetching products from a public api, store cart to local storage
 
+This site also have an admin panel in order to add, remove, update product
+https://github.com/nttminh/phone-store-admin
+
 # Screenshot
 <img width="596" alt="Screen Shot 2022-06-18 at 11 50 31 AM" src="https://user-images.githubusercontent.com/59038507/174423294-a5784ae3-61a6-4b4a-ad4b-4223fe879cae.png">
 
